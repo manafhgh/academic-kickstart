@@ -1,6 +1,6 @@
 +++
 # Display name
-name = "Nelson Bighetti"
+name = "Manaf Gharaibeh"
 
 # Username (this should match the folder name)
 authors = ["admin"]
@@ -9,44 +9,45 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Professor of Artificial Intelligence"
+role = "Ph.D. Candidate at " #Colorado State University"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Stanford University", url = "" } ]
+organizations = [ { name = "Colorado State University", url = "https://www.colostate.edu" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include distributed robotics, mobile computing and programmable matter."
+bio = "My research interests include Internet measurement and network security."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email = ""
+email = "manafgh@colostate.edu"
 
 # List (academic) interests or hobbies
 interests = [
-  "Artificial Intelligence",
-  "Computational Linguistics",
-  "Information Retrieval"
+  "Internet Measurement",
+  "IP Geolocation",
+  "Network Security"
 ]
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups = ["Researchers", "Visitors"]
+user_groups = ["Network Security Group"] 
+#, "Visitors"]
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "PhD in Computer Science"
+  institution = "Colorado State University"
+  year = 2019
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "Masters in Computer Science"
+  institution = "Yarmouk University"
+  year = 2005
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "BSc in Computer Science"
+  institution = "Jordan University of Science and Technology"
+  year = 2002
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -56,25 +57,31 @@ user_groups = ["Researchers", "Visitors"]
 [[social]]
   icon = "envelope"
   icon_pack = "fas"
-  link = "#contact"  # For a direct email link, use "mailto:test@example.org".
+  link = "#contact"  # For a direct email link, use "mailto:manafgh@colostate.edu".
+
+#[[social]]
+#  icon = "twitter"
+#  icon_pack = "fab"
+#  link = "https://twitter.com/georgecushen"
+
 
 [[social]]
-  icon = "twitter"
+  icon = "linkedin"
   icon_pack = "fab"
-  link = "https://twitter.com/GeorgeCushen"
+  link = "https://www.linkedin.com/in/manaf-gharaibeh-725b2196"
 
 [[social]]
   icon = "google-scholar"
   icon_pack = "ai"
-  link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+  link = "https://scholar.google.com/citations?hl=en&user=Epho4UsAAAAJ"
 
-[[social]]
-  icon = "github"
-  icon_pack = "fab"
-  link = "https://github.com/gcushen"
+#[[social]]
+#  icon = "github"
+#  icon_pack = "fab"
+#  link = "https://github.com/gcushen"
 
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+# link to a pdf of your resume/cv from the about widget.
+# to enable, copy your resume/cv to `static/files/cv.pdf` and uncomment the lines below.
 # [[social]]
 #   icon = "cv"
 #   icon_pack = "ai"
@@ -82,6 +89,21 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a Ph.D. candidate at Colorado State University. I do my research as a
+member of the NetSec Group under the supervision of Prof. Christos
+Papadopoulos. I expect to graduate in Fall 2019.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+My main research area is Internet measurements with a focus on IP geolocation.
+We have published work about leveraging delay measurements to characterize the
+IP address space locality and movement to help to build efficient IP
+geolocation systems. I also designed and implemented a delay-based algorithm to
+identify cellular networks.  In addition to the measurements research, I have
+also been involved in network security research including a work that analyzes
+large scale NTP DDoS reflection attacks in early 2014, and another work about
+detecting abnormal activities prior to the DDoS attacks. I was also a co-author
+of a work that identifies Domain Generation Algorithms (DGA) -based botnets.
+
+I also have an undergraduate level teaching experience that extends to four
+years prior to joining the Ph.D. program.  My teaching experience also includes
+serving as the teaching assistant for graduate level classes in the computer
+science department at CSU.
