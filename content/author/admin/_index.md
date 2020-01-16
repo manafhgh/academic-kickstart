@@ -24,8 +24,8 @@ email = "manafgh@colostate.edu"
 # List (academic) interests or hobbies
 interests = [
   "Internet Measurement",
-  "IP Geolocation",
-  "Network Security"
+  "Network Security",
+  "IP Geolocation"
 ]
 
 # Organizational groups that you belong to (for People widget)
@@ -37,17 +37,17 @@ user_groups = ["Network Security Group"]
 [[education.courses]]
   course = "PhD in Computer Science"
   institution = "Colorado State University"
-  year = 2019
+  year = 2020
 
 [[education.courses]]
   course = "Masters in Computer Science"
   institution = "Yarmouk University"
-  year = 2005
+  year = "" #2005
 
 [[education.courses]]
   course = "BSc in Computer Science"
   institution = "Jordan University of Science and Technology"
-  year = 2002
+  year = "" #2002
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
