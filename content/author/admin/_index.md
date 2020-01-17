@@ -35,7 +35,7 @@ user_groups = ["Network Security Group"]
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "PhD in Computer Science"
+  course = "Ph.D. in Computer Science"
   institution = "Colorado State University"
   year = 2020
 
@@ -89,21 +89,22 @@ user_groups = ["Network Security Group"]
 
 +++
 
-I am a Ph.D. candidate at Colorado State University. I do my research as a
-member of the NetSec Group under the supervision of Prof. Christos
-Papadopoulos. I expect to graduate in Fall 2019.
+I am a Ph.D. candidate at [Colorado State
+University](https://www.colostate.edu). I do my research as a member of the
+[NetSec](https://www.netsec.colostate.edu/) Group under the supervision of
+Prof. Christos Papadopoulos. (Expected graduation term is Spring 2020.)
 
-My main research area is Internet measurements with a focus on IP geolocation.
-We have published work about leveraging delay measurements to characterize the
-IP address space locality and movement to help to build efficient IP
-geolocation systems. I also designed and implemented a delay-based algorithm to
-identify cellular networks.  In addition to the measurements research, I have
-also been involved in network security research including a work that analyzes
+I am broadly interested in Internet measurement research.  My Ph.D. work explored
+leveraging delay measurement to characterize the visible IPv4 address space
+locality and movement to enable efficient, continuous IP geolocation at an
+Internet-wide scale. My work also explored devising a delay-based algorithm to
+identify cellular networks.  In addition to measurement research, I was
+involved in network security research, including a work that analyzed
 large scale NTP DDoS reflection attacks in early 2014, and another work about
-detecting abnormal activities prior to the DDoS attacks. I was also a co-author
-of a work that identifies Domain Generation Algorithms (DGA) -based botnets.
+detecting abnormal activities prior to the DDoS attacks. I was also involved in
+a work that identifies Domain Generation Algorithms (DGA) -based botnets.
 
-I also have an undergraduate level teaching experience that extends to four
-years prior to joining the Ph.D. program.  My teaching experience also includes
-serving as the teaching assistant for graduate level classes in the computer
+My experience includes undergraduate-level teaching for four years prior to
+joining the Ph.D. program at CSU.  My teaching experience also includes
+serving as the teaching assistant for graduate-level courses in the computer
 science department at CSU.
