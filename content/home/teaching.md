@@ -24,5 +24,5 @@ I taught and coordinated several undergraduate courses including:
 
 
 ## Jordan University of Science and Technology
-Worked as part-time Lecturer (Summer 2005):
+Worked as part-time Lecturer (Summer 2005): 
 * Introduction to Programming
