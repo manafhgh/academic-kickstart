@@ -17,12 +17,13 @@ title = "Teaching"
 ## Yarmouk University
 Worked as full-time lecturer (Fall 2005 - Summer 2009).
 I taught and coordinated several undergraduate courses including:
-* Object Oriented programming
+* Introduction to Programming
+* Object Oriented Programming
 * Data Structures
 * Operating System Concepts
 * Computer Graphics
 
 
 ## Jordan University of Science and Technology
-Worked as part-time Lecturer (Summer 2005): 
+Worked as part-time Lecturer (Summer 2005):
 * Introduction to Programming

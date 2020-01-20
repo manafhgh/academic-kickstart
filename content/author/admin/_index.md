@@ -1,6 +1,6 @@
 +++
 # Display name
-name = "Manaf Gharaibeh"
+name = "" #"Manaf Gharaibeh"
 
 # Username (this should match the folder name)
 authors = ["admin"]
@@ -37,7 +37,7 @@ user_groups = ["Network Security Group"]
 [[education.courses]]
   course = "Ph.D. in Computer Science"
   institution = "Colorado State University"
-  year = 2020
+  year = "(expected Spring 2020)"
 
 [[education.courses]]
   course = "Masters in Computer Science"
@@ -45,7 +45,7 @@ user_groups = ["Network Security Group"]
   year = "" #2005
 
 [[education.courses]]
-  course = "BSc in Computer Science"
+  course = "Bachelor in Computer Science"
   institution = "Jordan University of Science and Technology"
   year = "" #2002
 
