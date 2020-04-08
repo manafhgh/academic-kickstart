@@ -1,9 +1,9 @@
 +++
-title = "Assessing Co-Locality of IP Blocks"
-date = 2016-04-10
+title = "Delay-Based Identification of Internet Block Movement"
+date = 2020-04-08T02:18:45-06:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Manaf Gharaibeh", "Han Zhang", "Christos Papadopoulos", "John Heidemann"]
+authors = ["Manaf Gharaibeh", "Christos Papadopoulos", "John Heidemann", "Craig Partridge"]
 
 # Publication type.
 # Legend:
@@ -16,10 +16,10 @@ authors = ["Manaf Gharaibeh", "Han Zhang", "Christos Papadopoulos", "John Heidem
 # 6 = Book section
 # 7 = Thesis
 # 8 = Patent
-publication_types = ["1"]
+publication_types = ["4"]
 
 # Publication name and optional abbreviated version.
-publication = "Proceedings of 19th IEEE Global Internet Symposium, San Francisco, CA, USA."
+publication = "Technical Report TR-20-101, Colorado State University"
 publication_short = ""
 
 # Abstract.
@@ -29,7 +29,7 @@ abstract = "Many IP Geolocation services and applications assume that all IP add
 summary = ""
 
 # Digital Object Identifier (DOI)
-doi = "10.1109/INFCOMW.2016.7562129"
+doi = ""
 
 # Is this a featured publication? (true/false)
 featured = false
@@ -55,9 +55,9 @@ projects = []
 slides = ""
 
 # Links (optional).
-url_pdf = "https://www.isi.edu/~johnh/PAPERS/Gharaibeh16a.pdf"
+url_pdf = "https://www.cs.colostate.edu/TechReports/Reports/2020/tr20-101.pdf"
 url_code = ""
-url_dataset = ""
+url_dataset = "https://ant.isi.edu/datasets/outage/"
 url_project = ""
 url_slides = ""
 url_video = ""
