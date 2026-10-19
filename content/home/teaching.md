@@ -8,6 +8,19 @@ weight = 110  # Order that this section will appear.
 title = "Teaching"
 +++
 
+## Princess Sumaya University for Technology (PSUT)
+Assistant Professor (Fall 2020–Present).
+I taught and coordinated several courses including:
+* Introduction to Programming
+* Structured Programming
+* Programming for Security Professionals
+* Object Oriented Programming
+* Data Structures and Introduction to Algorithms
+* Operating Systems
+* Network Programming
+* Networks Fundamentals
+* Data Communications and Computer Networks
+
 ## Colorado State University
 * Several times guest lecturer for CS557 (Advanced Networking)
 * Spring 2012: Teaching Assistant for CS560 (Foundations of Fine-Grain Parallelism)
@@ -15,7 +28,7 @@ title = "Teaching"
 
 
 ## Yarmouk University
-Worked as full-time lecturer (Fall 2005 - Summer 2009).
+Full-time lecturer (Fall 2005 - Summer 2009).
 I taught and coordinated several undergraduate courses including:
 * Introduction to Programming
 * Object Oriented Programming
@@ -25,5 +38,5 @@ I taught and coordinated several undergraduate courses including:
 
 
 ## Jordan University of Science and Technology
-Worked as part-time Lecturer (Summer 2005):
+Part-time Lecturer (Summer 2005):
 * Introduction to Programming

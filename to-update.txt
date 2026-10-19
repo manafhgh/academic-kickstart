@@ -1,0 +1,10 @@
+﻿hugo
+cd public 
+then run 
+./update.sh 
+
+or each of the following commands:
+
+git add .
+git commit -m "Build website"
+git push origin master

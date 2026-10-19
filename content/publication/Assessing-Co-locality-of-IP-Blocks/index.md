@@ -57,7 +57,7 @@ slides = ""
 # Links (optional).
 url_pdf = "https://www.isi.edu/~johnh/PAPERS/Gharaibeh16a.pdf"
 url_code = ""
-url_dataset = ""
+url_dataset = "https://ant.isi.edu/datasets/geolocation/"
 url_project = ""
 url_slides = ""
 url_video = ""
